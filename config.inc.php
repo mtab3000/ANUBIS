@@ -3,7 +3,7 @@
 $dbdatabase = "anubis_db";
 
 /* MYSQL specific defines */
-$dbusername = "mtab";
+$dbusername = "root";
 $dbpassword = "T26Rcgvjcblegigbuneveegetrvdekkj";
 $dbhost = "localhost";
 /* End MYSQL specific defines */
