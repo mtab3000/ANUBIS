@@ -3,8 +3,8 @@
 $dbdatabase = "anubis_db";
 
 /* MYSQL specific defines */
-$dbusername = "anubis";
-$dbpassword = "h3rakles";
+$dbusername = "minepeon";
+$dbpassword = "peon";
 $dbhost = "localhost";
 /* End MYSQL specific defines */
 
