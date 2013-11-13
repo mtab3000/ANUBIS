@@ -1,6 +1,6 @@
 <?php
 
-$dbdatabase = "anubis_db";
+$dbdatabase = "local";
 
 /* MYSQL specific defines */
 $dbusername = "root";
